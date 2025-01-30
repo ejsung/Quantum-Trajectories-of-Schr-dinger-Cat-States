@@ -4,3 +4,7 @@ These notebooks are contain the open quantum system and quantum trajectory simul
 
 
 ![Alt Text](https://github.com/ejsung/Quantum-Trajectories-of-Schr-dinger-Cat-States/blob/main/images/bloch_sphere_dynamics_opti646.gif)
+
+![Alt Text](https://github.com/ejsung/Quantum-Trajectories-of-Schr-dinger-Cat-States/blob/main/images/wigner_animation_lindblad_opti646.gif)
+
+![Alt Text](https://github.com/ejsung/Quantum-Trajectories-of-Schr-dinger-Cat-States/blob/main/images/wigner_animation_poisson_opti646.gif)
